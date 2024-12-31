@@ -1,0 +1,4 @@
+'Polynomial-correct', (0, 66)
+'remove_duplicates-correct', (512, 66)
+'reverse-correct', (1024, 66)
+'Tree.__eq__-correct', (1536, 66)
